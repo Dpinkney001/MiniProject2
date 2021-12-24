@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Mini Project 2</string>
+    <string name="RedScore">RedScore</string>
+    <string name="BlueScore">blueScore</string>
+    <string name="_0">0</string>
+    <string name="winningTextView">TextView</string>
+    <string name="winningPicture">winningPicture</string>
+    <string name="phoneAFriend">phoneAFriend</string>
+    <string name="endOfOpenMapsLog">end of openMaps method</string>
+    <string name="message">Message</string>
+    <string name="maps">Maps</string>
+</resources>
